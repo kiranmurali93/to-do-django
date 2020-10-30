@@ -40,8 +40,4 @@
 
 ## To-do app demo
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="./demo/demo.mp4" type="video/mp4">
-  </video>
-</figure>
+<img src="./demo/demo.gif" width="600" height="400" />
