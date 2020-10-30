@@ -38,4 +38,10 @@
 
         python3 namage.py startapp <appname>
 
+## To-do app demo
 
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="./demo/demo.mp4" type="video/mp4">
+  </video>
+</figure>
