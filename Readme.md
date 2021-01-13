@@ -1,5 +1,9 @@
 # Django ToDo app
 
+## To-do app demo
+
+<img src="./demo/demo.gif" width="600" height="400" />
+
 ## Steps To configure
 
 * ## Setup venv
@@ -38,6 +42,3 @@
 
         python3 namage.py startapp <appname>
 
-## To-do app demo
-
-<img src="./demo/demo.gif" width="600" height="400" />
